@@ -1,0 +1,42 @@
+# Vivado/Vitis generated projects and caches
+.Xil/
+*.jou
+*.log
+*.str
+*.wdb
+*.wcfg
+*.bit
+*.bin
+*.ltx
+*.xsa
+*.runs/
+*.cache/
+*.hw/
+*.sim/
+*.ip_user_files/
+*.gen/
+*.srcs/
+*.sdk/
+*.Xil/
+
+# Vitis workspace/build output
+vitis_workspace/
+Debug/
+Release/
+_ide/
+*.elf
+*.o
+*.a
+*.map
+
+# HLS generated project internals
+/hls_nco/
+
+# Original tutorial and full extracted page renders
+Tutorial 4.pdf
+tutorial4_extract/pages/
+tutorial4_extract/contact/
+
+# OS/editor noise
+Thumbs.db
+.DS_Store
