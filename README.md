@@ -142,14 +142,6 @@ Export Format : Vivado IP (.zip)
 RTL           : Verilog
 ```
 
-## Documentation
-
-The full lab guide is available here:
-
-[Lab04_Vivado_2022_2_Verilog.md](Lab04_Vivado_2022_2_Verilog.md)
-
-It includes the 2022.2 tool-flow updates, Verilog edits, Vitis migration notes, HLS steps, and known issues encountered during the lab.
-
 ## Notes
 
 - Exercise 4B requires MATLAB, Simulink, and HDL Coder desktop tools. The workflow is documented, while the reproducible repository artifacts focus on Vivado/Vitis-based work.
